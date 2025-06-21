@@ -1,3 +1,3 @@
 # Tester
-experiment1
-i love myself
+this is my repo.
+i am learning this thing.
